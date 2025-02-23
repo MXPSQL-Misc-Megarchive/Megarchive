@@ -1,3 +1,6 @@
 [submodule "aircons/hitachi"]
 	path = aircons/hitachi
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Hitachi.git
+[submodule "aircons/hisense"]
+	path = aircons/hisense
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Hisense.git
