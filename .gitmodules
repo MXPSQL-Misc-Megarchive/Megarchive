@@ -4,3 +4,6 @@
 [submodule "aircons/hisense"]
 	path = aircons/hisense
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Hisense.git
+[submodule "aircons/trane"]
+	path = aircons/trane
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Trane.git
