@@ -1,0 +1,3 @@
+[submodule "aircons/hitachi"]
+	path = aircons/hitachi
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Hitachi.git
