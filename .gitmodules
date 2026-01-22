@@ -10,3 +10,6 @@
 [submodule "Aircons.Toshiba"]
 	path = aircons/toshiba
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Toshiba.git
+[submodule "aircons/sharp"]
+	path = aircons/sharp
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Sharp.git
