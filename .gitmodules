@@ -13,3 +13,6 @@
 [submodule "aircons/sharp"]
 	path = aircons/sharp
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Sharp.git
+[submodule "aircons/sanyo"]
+	path = aircons/sanyo
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Sanyo.git
