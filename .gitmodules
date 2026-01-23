@@ -16,3 +16,6 @@
 [submodule "aircons/sanyo"]
 	path = aircons/sanyo
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Sanyo.git
+[submodule "aircons/midea"]
+	path = aircons/midea
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Midea.git
