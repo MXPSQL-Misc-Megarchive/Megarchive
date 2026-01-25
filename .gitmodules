@@ -19,3 +19,6 @@
 [submodule "aircons/midea"]
 	path = aircons/midea
 	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Midea.git
+[submodule "aircons/gree"]
+	path = aircons/gree
+	url = https://github.com/MXPSQL-Misc-Megarchive/Aircons.Gree.git
